@@ -1,12 +1,12 @@
 package com.example.safeinternetwebview;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.util.Log;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.widget.Toast;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = "MainActivity";
@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         webSettings.setJavaScriptEnabled(true);
 
         webView.loadUrl("https://safeinternet.unicefbangladesh.org/");
+        Toast.makeText(this, "hekklo", Toast.LENGTH_SHORT).show();
 
-        Toast.makeText(MainActivity.this, "hello", Toast.LENGTH_SHORT).show();
     }
 }
