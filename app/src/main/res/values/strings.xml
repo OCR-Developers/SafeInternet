@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">SafeInternetWebView</string>
+    <string name="testQuestions">Will you ever use a fake ID?</string>
+    <string name="testfirstans">Yes</string>
+    <string name="testsecondans">No</string>
+    <string name="txt_quiznumber">1/6</string>
+    <string name="be_careful">Be careful</string>
+    <string name="txt_careful">Password or password is used to log into the account. If the password is too easy, hackers or malicious people can easily guess it and hack into the account and create various problems. So, to make the password stronger, create a longer password. And remember, the password should not be any personal information and it should contain a combination of letters and numbers.</string>
+    <string name="whatis">" The password protects our account"</string>
+    <string name="rightanstext">Your answer is correct</string>
+    <string name="next">Next</string>
 </resources>
