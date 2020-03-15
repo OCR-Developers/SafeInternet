@@ -29,6 +29,7 @@ public class GameActivity extends AppCompatActivity implements View.OnClickListe
         Log.d(TAG, "onCreate: started.");
         Toolbar toolbar=findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+        /// rft
 
         getSupportActionBar().setHomeButtonEnabled(true);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
