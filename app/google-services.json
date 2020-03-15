@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "464747271247",
+    "firebase_url": "https://safeinternetwebview.firebaseio.com",
+    "project_id": "safeinternetwebview",
+    "storage_bucket": "safeinternetwebview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464747271247:android:b904570be9290b665e863a",
+        "android_client_info": {
+          "package_name": "com.example.safeinternetwebview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464747271247-9oog8plvsb32q7fv296akv9oqnh5irav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.safeinternetwebview",
+            "certificate_hash": "39a93232aea6b142c4b43e4e0be9eabdc8804628"
+          }
+        },
+        {
+          "client_id": "464747271247-2tvtd76udsk3cso6t6s339epf40thf9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlmdwLAk6e1GwYT7rTulC70OYrgvsqyus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464747271247-2tvtd76udsk3cso6t6s339epf40thf9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

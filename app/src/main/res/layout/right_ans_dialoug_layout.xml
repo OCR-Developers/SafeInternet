@@ -3,15 +3,17 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_margin="10dp"
-    android:backgroundTint="@android:color/white"
+    android:background="@drawable/bg_shape"
     android:gravity="center">
 
     <androidx.cardview.widget.CardView
         android:id="@+id/right"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="150dp"
         android:layout_marginBottom="30dp"
+        app:cardBackgroundColor="#3DA1FE"
+        android:layout_centerVertical="true"
+        android:layout_margin="10dp"
         app:cardCornerRadius="20dp"
         app:cardElevation="10dp">
 
@@ -21,8 +23,9 @@
             android:gravity="center_horizontal"
             android:text="@string/rightanstext"
             android:textAlignment="center"
-            android:textColor="@android:color/black"
-            android:textSize="50dp"
+            android:textColor="@android:color/white"
+            android:layout_gravity="center"
+            android:textSize="35dp"
             android:textStyle="bold" />
     </androidx.cardview.widget.CardView>
 
@@ -30,18 +33,41 @@
         android:id="@+id/card_next"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@id/right"
-        android:layout_centerInParent="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="50dp"
+        app:cardBackgroundColor="#FED403"
         app:cardCornerRadius="20dp">
 
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:backgroundTint="@android:color/white"
-            android:drawableRight="@drawable/ic_navigate_next_black_24dp"
-            android:text="@string/next"
-            android:textColor="@android:color/black"
-            android:textSize="25dp"
-            android:textStyle="bold" />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/tvnext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:backgroundTint="@android:color/white"
+                android:text="@string/next"
+                android:gravity="center"
+                android:textColor="@android:color/black"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_toEndOf="@id/tvnext"
+                android:layout_centerVertical="true"
+                android:backgroundTint="@android:color/white"
+                android:src="@drawable/ic_navigate_next_black_24dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginEnd="10dp"
+                app:borderWidth="0dp"
+                android:layout_toRightOf="@id/tvnext"
+                android:layout_marginRight="10dp" />
+        </RelativeLayout>
+
     </androidx.cardview.widget.CardView>
+
 </RelativeLayout>
