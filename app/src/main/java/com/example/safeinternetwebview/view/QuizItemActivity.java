@@ -54,6 +54,8 @@ public class QuizItemActivity extends AppCompatActivity {
     SharedPreferences.Editor cEditor;
     long total_question = 0;
     int p;
+    String chapterget;
+    Bundle bundle;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -61,19 +63,20 @@ public class QuizItemActivity extends AppCompatActivity {
 
         //Firebase
         rotref= FirebaseDatabase.getInstance().getReference();
-        Bundle bundle = getIntent().getExtras();
+        bundle = getIntent().getExtras();
 
         if (bundle != null) {
-            final String ch = bundle.getString("chapter");
-            p = bundle.getInt(ch);
+            chapterget = bundle.getString("chapter");
+            p = bundle.getInt(chapterget);
+            Log.e("totalq",chapterget);
 
-            Log.e("totalq",ch);
-            DatabaseReference databaseReference = FirebaseDatabase.getInstance().getReference().child(ch);
+            DatabaseReference databaseReference = FirebaseDatabase.getInstance().getReference().child(chapterget);
             databaseReference.addValueEventListener(new ValueEventListener() {
                 @Override
                 public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
 
                     total_question = dataSnapshot.getChildrenCount();
+                    Log.e("totalq",String.valueOf(total_question));
 
                 }
 
@@ -102,7 +105,20 @@ public class QuizItemActivity extends AppCompatActivity {
 
 
                 holder.chaptername.setText(model.getChaptername());
-                Bundle bundle = getIntent().getExtras();
+                if(total_question == (p-1))
+                {
+                    if(model.getChaptername().equals(chapterget)){
+                        final int fPosition = bundle.getInt(chapterget);
+                        //rabbi rabbi rabbi rabbi rabbi
+                        holder.totalquize.setText(String.valueOf(fPosition));
+                    }
+
+
+                }
+                else if(model.getChaptername().equals(chapterget)){
+                    holder.totalquize.setText(String.valueOf(p));
+                }
+
                /* if (bundle != null) {
                     p = bundle.getInt(model.getChaptername());
                     final String ch = bundle.getString("chapter");
