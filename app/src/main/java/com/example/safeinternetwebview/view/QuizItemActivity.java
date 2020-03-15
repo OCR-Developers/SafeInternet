@@ -15,6 +15,7 @@ import android.graphics.drawable.GradientDrawable;
 import android.graphics.drawable.ShapeDrawable;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -60,7 +61,29 @@ public class QuizItemActivity extends AppCompatActivity {
 
         //Firebase
         rotref= FirebaseDatabase.getInstance().getReference();
+        Bundle bundle = getIntent().getExtras();
 
+        if (bundle != null) {
+            final String ch = bundle.getString("chapter");
+            p = bundle.getInt(ch);
+
+            Log.e("totalq",ch);
+            DatabaseReference databaseReference = FirebaseDatabase.getInstance().getReference().child(ch);
+            databaseReference.addValueEventListener(new ValueEventListener() {
+                @Override
+                public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+
+                    total_question = dataSnapshot.getChildrenCount();
+
+                }
+
+                @Override
+                public void onCancelled(@NonNull DatabaseError databaseError) {
+
+                }
+            });
+
+        }
         //RecyclerView
         recyclerView=findViewById(R.id.allcardview_recycularid);
         recyclerView.setHasFixedSize(true);
@@ -76,36 +99,40 @@ public class QuizItemActivity extends AppCompatActivity {
             @Override
             protected void onBindViewHolder(@NonNull final CategoryQuizViewHolder holder, int position, @NonNull final CategoryQuizItem model) {
 
-                DatabaseReference databaseReference = FirebaseDatabase.getInstance().getReference().child(model.getChaptername());
-                databaseReference.addValueEventListener(new ValueEventListener() {
-                    @Override
-                    public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
 
-                        total_question = dataSnapshot.getChildrenCount();
 
-                    }
-
-                    @Override
-                    public void onCancelled(@NonNull DatabaseError databaseError) {
-
-                    }
-                });
                 holder.chaptername.setText(model.getChaptername());
                 Bundle bundle = getIntent().getExtras();
-                if (bundle != null) {
+               /* if (bundle != null) {
                     p = bundle.getInt(model.getChaptername());
-                    String ch = bundle.getString("chapter");
+                    final String ch = bundle.getString("chapter");
+                    Log.e("totalq",ch);
+                    DatabaseReference databaseReference = FirebaseDatabase.getInstance().getReference().child(ch);
+                    databaseReference.addValueEventListener(new ValueEventListener() {
+                        @Override
+                        public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
 
+                            total_question = dataSnapshot.getChildrenCount();
+
+                        }
+
+                        @Override
+                        public void onCancelled(@NonNull DatabaseError databaseError) {
+
+                        }
+                    });
                     if(total_question == (p-1))
                     {
+
                         final int fPosition = bundle.getInt(model.getChaptername());
                         holder.totalquize.setText(String.valueOf(fPosition));
+
                     }
                     else if(model.getChaptername().equals(ch)){
                         holder.totalquize.setText(String.valueOf(p));
 
                     }
-                }
+                }*/
                // holder.totalquize.setText("0/");
 
 
@@ -151,6 +178,7 @@ public class QuizItemActivity extends AppCompatActivity {
                         Common.CATEGORY_SELECTED = model.getChaptername();
                         Intent intent = new Intent(QuizItemActivity.this, QuizShowActivity.class);
                         startActivity(intent);
+
                     }
                 });
 
