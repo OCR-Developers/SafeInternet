@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mute.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\drawable-v24\\mute.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_instruction.xml.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\layout\\activity_instruction.xml"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_profile.xml.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\layout\\activity_user_profile.xml"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_file_download_black_24dp.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_file_download_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_game.xml.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_red_cross.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\drawable-v24\\red_cross.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_file_download_black_24dp.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_file_download_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_play_arrow_black_24dp.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_play_arrow_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background.PNG.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\drawable-v24\\background.PNG"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_play_arrow_black_24dp.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_play_arrow_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_safe_internet_introduction.xml.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\layout\\activity_safe_internet_introduction.xml"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_file_download_black_24dp.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_file_download_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_speaker.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\drawable-v24\\speaker.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\raw_sound.mp3.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\raw\\sound.mp3"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_intrologo.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\drawable-v24\\intrologo.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_delete_black_24dp.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_file_download_black_24dp.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_file_download_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registration.xml.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_play_arrow_black_24dp.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_play_arrow_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_button_back.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\drawable-v24\\button_back.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_erorr_button_dialog.xml.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\drawable\\erorr_button_dialog.xml"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_file_download_black_24dp.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_file_download_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_question.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\drawable-v24\\question.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_file_download_black_24dp.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_file_download_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_file_download_black_24dp.xml.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_file_download_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_arrow.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\drawable-v24\\arrow.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_start_button.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\drawable-v24\\start_button.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_play_arrow_black_24dp.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_play_arrow_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_main_b.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\drawable-v24\\main_b.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delete_black_24dp.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border.xml.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_play_arrow_black_24dp.xml.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_play_arrow_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_button_sound.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\drawable-v24\\button_sound.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_main_top.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\drawable-v24\\main_top.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_delete_black_24dp.xml.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_delete_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_delete_black_24dp.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_button_info.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\drawable-v24\\button_info.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start_game.xml.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\layout\\activity_start_game.xml"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_button_sound_off.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\drawable-v24\\button_sound_off.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delete_black_24dp.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_arrow_back_black_24dp.xml.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_play_arrow_black_24dp.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_play_arrow_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_main_bottom.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\drawable-v24\\main_bottom.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_play_arrow_black_24dp.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_play_arrow_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\layout_invalid_user_dialog.xml.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\src\\main\\res\\layout\\invalid_user_dialog.xml"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_delete_black_24dp.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_delete_black_24dp.png.flat",
+        "source": "D:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_delete_black_24dp.png"
+    }
+]

@@ -1,0 +1,72 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.safeinternetwebview"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:5:5-67
+11-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:7:5-28:19
+14        android:allowBackup="true"
+14-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.1.0] C:\Users\almam\.gradle\caches\transforms-2\files-2.1\1cd7eff88f5e86d0249af2958bf465f0\core-1.1.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:9:9-43
+18        android:label="@string/app_name"
+18-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:10:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:11:9-54
+20        android:supportsRtl="true"
+20-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:12:9-35
+21        android:theme="@style/AppTheme" >
+21-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:13:9-40
+22        <activity android:name="com.example.safeinternetwebview.Activity.UserProfileActivity" />
+22-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:14:9-75
+22-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:14:19-63
+23        <activity android:name="com.example.safeinternetwebview.Activity.GameActivity" />
+23-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:15:9-59
+23-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:15:19-56
+24        <activity android:name="com.example.safeinternetwebview.Activity.RegistrationActivity" />
+24-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:16:9-67
+24-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:16:19-64
+25        <activity android:name="com.example.safeinternetwebview.Activity.InstructionActivity" />
+25-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:17:9-66
+25-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:17:19-63
+26        <activity android:name="com.example.safeinternetwebview.Activity.SafeInternetIntroductionActivity" />
+26-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:18:9-79
+26-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:18:19-76
+27        <activity android:name="com.example.safeinternetwebview.Activity.MainActivity" />
+27-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:19:9-59
+27-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:19:19-56
+28        <activity android:name="com.example.safeinternetwebview.Activity.StartGameActivity" >
+28-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:20:9-26:20
+28-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:20:19-61
+29            <intent-filter>
+29-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:21:13-25:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:22:17-69
+30-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:22:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:24:17-77
+32-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:24:27-74
+33            </intent-filter>
+34        </activity>
+35
+36        <service android:name="com.example.safeinternetwebview.View.BackgroundSoundService" />
+36-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:27:9-64
+36-->D:\GitHub Project 3-3-2020\SafeInternet\app\src\main\AndroidManifest.xml:27:18-61
+37    </application>
+38
+39</manifest>

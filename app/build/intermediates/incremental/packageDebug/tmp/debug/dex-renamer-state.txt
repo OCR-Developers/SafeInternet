@@ -1,0 +1,4 @@
+#Sun Mar 15 18:06:16 BDT 2020
+base.0=D\:\\GitHub Project 3-3-2020\\SafeInternet\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
