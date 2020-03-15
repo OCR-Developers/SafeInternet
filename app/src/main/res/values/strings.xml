@@ -1,3 +1,187 @@
 <resources>
     <string name="app_name">SafeInternetWebView</string>
+    <string name="quiz_game">কুইজ গেইম</string>
+    <string name="introduction">
+        ইন্টারনেট আমাদের কত্ত কাজে লাগে, তা এখন আর আমাদের জানতে বাকি নেই।
+        কিন্তু কিছু ছোট-খাট ভুলের কারণে ইন্টারনেটের মাধ্যমে তোমার কত রকম বিপদ হতে পারে তা কি তুমি জানো?
+        তুমি কি জানো কিভাবে সেসব বিপদ এড়িয়ে নিরাপদে ইন্টারনেট ব্যবহার করা যায় চলো দেখি...!
+    </string>
+    <string name="instruction">
+        নির্দেশনা\n\nগেইমটির প্রতি ধাপে খেলোয়াড়কে বেশ কিছু প্রশ্ন করা হবে।
+        সকল প্রশ্নের সাথে দেয়া অপশন থেকে সঠিক উত্তর বেছে নিতে হবে। সকল প্রশ্নের সঠিক উত্তর দিয়ে জিতে নিতে হবে- নিরাপত্তার সার্টিফিকেট!\n\n
+        মূল গেইমে প্রবেশের পূর্বে খেলোয়ারের নাম, বয়স, স্কুল ও জেলার নাম পূরণ করা বাধ্যতামূলক!
+    </string>
+
+    <string name="your_information">তোমার বিবরণ</string>
+    <string name="your_profile">তোমার প্রোফাইল</string>
+
+    <string name="name"> নাম:</string>
+    <string name="age"> বয়স:</string>
+    <string name="school"> স্কুল:</string>
+    <string name="district"> জেলা:</string>
+
+    <string name="star">* </string>
+
+
+    <!--    <string-array name="district_entries_o">-->
+    <!--        <item>Small</item>-->
+    <!--        <item>Medium</item>-->
+    <!--        <item>Large</item>-->
+    <!--        <item>BARGUNA</item>-->
+    <!--        <item>BARISAL</item>-->
+    <!--        <item>BHOLA</item>-->
+    <!--        <item>JHALOKATI</item>-->
+    <!--        <item>PATUAKHALI</item>-->
+    <!--        <item>PIROJPUR</item>-->
+    <!--        <item>BANDARBAN</item>-->
+    <!--        <item>BRAHMANBARIA</item>-->
+    <!--        <item>CHANDPUR</item>-->
+    <!--        <item>CHITTAGONG</item>-->
+    <!--        <item>COMILLA</item>-->
+    <!--        <item>COX'S BAZAR</item>-->
+    <!--        <item>FENI</item>-->
+    <!--        <item>KHAGRACHHARI</item>-->
+    <!--        <item>LAKSHMIPUR</item>-->
+    <!--        <item>NOAKHALI</item>-->
+    <!--        <item>RANGAMATI</item>-->
+    <!--        <item>SYLHET</item>-->
+    <!--        <item> SUNAMGANJ</item>-->
+    <!--        <item>MAULVIBAZAR</item>-->
+    <!--        <item>HABIGANJ</item>-->
+    <!--        <item>THAKURGAON</item>-->
+    <!--        <item>RANGPUR</item>-->
+    <!--        <item>PANCHAGARH</item>-->
+    <!--        <item>NILPHAMARI</item>-->
+    <!--        <item>LALMONIRHAT</item>-->
+    <!--        <item>KURIGRAM</item>-->
+    <!--        <item>GAIBANDHA</item>-->
+    <!--        <item>DINAJPUR</item>-->
+    <!--        <item>SIRAJGANJ</item>-->
+    <!--        <item>RAJSHAHI</item>-->
+    <!--        <item>NATORE</item>-->
+    <!--        <item>NAOGAON</item>-->
+    <!--        <item>PABNA</item>-->
+    <!--        <item>JOYPURHAT</item>-->
+    <!--        <item>CHAPAINABABGANJ</item>-->
+    <!--        <item>BOGRA</item>-->
+    <!--        <item>SATKHIRA</item>-->
+    <!--        <item>NARAIL</item>-->
+    <!--        <item>MEHERPUR</item>-->
+    <!--        <item>KUSHTIA</item>-->
+    <!--        <item>KHULNA</item>-->
+    <!--        <item>JHENAIDAH</item>-->
+    <!--        <item>JESSORE</item>-->
+    <!--        <item>CHUADANGA</item>-->
+    <!--        <item>BAGERHAT</item>-->
+    <!--        <item>TANGAIL</item>-->
+    <!--        <item>SHERPUR</item>-->
+    <!--        <item>SHARIATPUR</item>-->
+    <!--        <item>RAJBARI</item>-->
+    <!--        <item>NETRAKONA</item>-->
+    <!--        <item>NARSINGDI</item>-->
+    <!--        <item>NARAYANGANJ</item>-->
+    <!--        <item>MYMENSINGH</item>-->
+    <!--        <item>MUNSHIGANJ</item>-->
+    <!--        <item>MANIKGANJ</item>-->
+    <!--        <item>MADARIPUR</item>-->
+    <!--        <item>KISHOREGONJ</item>-->
+    <!--        <item>JAMALPUR</item>-->
+    <!--        <item>GOPALGANJ</item>-->
+    <!--        <item>GAZIPUR</item>-->
+    <!--        <item>FARIDPUR</item>-->
+    <!--        <item>DHAKA</item>-->
+    <!--    </string-array>-->
+
+    <string-array name="district_entries">
+        <item>Bagerhat</item>
+        <item>Bandarban</item>
+        <item>Barguna</item>
+        <item>barisal</item>
+        <item>Bhola</item>
+        <item>Bogra</item>
+        <item>Brahmanbaria</item>
+        <item>Chandpur</item>
+        <item>Chittagong</item>
+        <item>Chuadanga</item>
+        <item>Comilla</item>
+        <item>Cox\'s Bazar</item>
+        <item>Dhaka</item>
+        <item>Dinajpur</item>
+        <item>Faridpur</item>
+        <item>Feni</item>
+        <item>Gaibandha</item>
+        <item>Gazipur</item>
+        <item>Gopalganj</item>
+        <item>Habiganj</item>
+        <item>Jaipurhat</item>
+        <item>Jamalpur</item>
+        <item>Jessore</item>
+        <item>Jhalakati</item>
+        <item>Jhenaidah</item>
+        <item>Khagrachari</item>
+        <item>Khulna</item>
+        <item>Kishoreganj</item>
+        <item>Kurigram</item>
+        <item>Kushtia</item>
+        <item>Lakshmipur</item>
+        <item>Lalmonirhat</item>
+        <item>Madaripur</item>
+        <item>Magura</item>
+        <item>Manikganj</item>
+        <item>Meherpur</item>
+        <item>Moulvibazar</item>
+        <item>Munshiganj</item>
+        <item>Mymensingh</item>
+        <item>Naogaon</item>
+        <item>Narail</item>
+        <item>Narayanganj</item>
+        <item>Narsingdi</item>
+        <item>Natore</item>
+        <item>Nawabganj</item>
+        <item>Netrakona</item>
+        <item>Nilphamari</item>
+        <item>Noakhali</item>
+        <item>Pabna</item>
+        <item>Panchagarh</item>
+        <item>Parbattya Chattagram</item>
+        <item>Patuakhali</item>
+        <item>Pirojpur</item>
+        <item>Rajbari</item>
+        <item>Rajshahi</item>
+        <item>Rangpur</item>
+        <item>Satkhira</item>
+        <item>Shariatpur</item>
+        <item>Sherpur</item>
+        <item>Sirajganj</item>
+        <item>Sunamganj</item>
+        <item>Sylhet</item>
+        <item>Tangail</item>
+        <item>Thakurgaon</item>
+    </string-array>
+
+    <string-array name="age_entries">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>16+</item>
+    </string-array>
+
+    <string name="dialog_message">
+        *Enter the correct name*Choose the right age*Enter the name of the school / educational institution*Select your district
+    </string>
+
 </resources>

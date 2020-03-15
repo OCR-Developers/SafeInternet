@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_b"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".Activity.StartGameActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize">
+
+        <LinearLayout
+            android:id="@+id/linLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:gravity="right">
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                android:id="@+id/fab_information"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:backgroundTint="@color/white"
+                app:fabCustomSize="60dp"
+                app:srcCompat="@drawable/question"
+                tools:ignore="VectorDrawableCompat" />
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                android:id="@+id/fab_music_control"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:backgroundTint="@color/white"
+                android:layout_marginStart="10dp"
+                app:fabCustomSize="60dp"
+                app:srcCompat="@drawable/speaker"
+                tools:ignore="VectorDrawableCompat"
+                android:layout_marginLeft="10dp" />
+
+        </LinearLayout>
+    </androidx.appcompat.widget.Toolbar>
+
+
+    <LinearLayout
+        android:layout_below="@id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="380dp"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:gravity="center|bottom">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/intrologo">
+        </ImageView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/quiz_game"
+            android:gravity="center"
+            android:layout_marginBottom="10dp"
+            android:textSize="30sp"
+            android:textColor="#ffffff">
+        </TextView>
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fab_start"
+            android:layout_width="wrap_content"
+            android:layout_height="450dp"
+            android:elevation="10dp"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="@color/white"
+            app:fabCustomSize="60dp"
+            app:srcCompat="@drawable/ic_play_arrow_black_24dp"
+            tools:ignore="VectorDrawableCompat"
+            tools:targetApi="lollipop" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="left|bottom"
+            android:orientation="vertical">
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                android:id="@+id/fab_download_certificate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left|bottom"
+                android:layout_marginBottom="10dp"
+                android:backgroundTint="@color/white"
+                android:clickable="true"
+                android:visibility="invisible"
+                app:fabCustomSize="60dp"
+                app:srcCompat="@drawable/ic_file_download_black_24dp"
+                tools:ignore="VectorDrawableCompat" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</RelativeLayout>
